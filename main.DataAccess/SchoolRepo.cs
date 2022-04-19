@@ -6,12 +6,22 @@ namespace main.DataAccess
 {
     public class SchoolRepo
     {
-        public List<School> Schools()
+        private List<School> schoolsList { get; }
+
+        public SchoolRepo()
         {
             DeserializeData deserializeData = new DeserializeData();
-            List<School> schoolsList = deserializeData.DeserializeDataFile();
+            schoolsList = deserializeData.DeserializeDataFile();
+        }
 
+        public List<School> RetrieveSchoolsList()
+        {
             return schoolsList;
+        }
+
+        public School RetrieveSchool(int schoolIndex)
+        {
+            return schoolsList[schoolIndex];
         }
     }
 }

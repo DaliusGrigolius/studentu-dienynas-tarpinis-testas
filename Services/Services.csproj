@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Deserializer\Deserializer.csproj" />
+    <ProjectReference Include="..\main.DataAccess\main.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

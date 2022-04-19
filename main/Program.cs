@@ -1,4 +1,5 @@
 ﻿using Serializer;
+using Services;
 using System;
 
 namespace main
@@ -7,8 +8,10 @@ namespace main
     {
         static void Main(string[] args)
         {
-            SerializeData serializeData = new SerializeData();
+            //SerializeData serializeData = new SerializeData();
             //serializeData.GenerateDataFile();
+            //ReportGenerator reportGenerator = new ReportGenerator();
+            //reportGenerator.GenerateReport();
 
             Console.ReadLine();
         }

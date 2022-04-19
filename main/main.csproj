@@ -8,6 +8,7 @@
   <ItemGroup>
     <ProjectReference Include="..\main.DataAccess\main.DataAccess.csproj" />
     <ProjectReference Include="..\Serializer\Serializer.csproj" />
+    <ProjectReference Include="..\Services\Services.csproj" />
   </ItemGroup>
 
 </Project>

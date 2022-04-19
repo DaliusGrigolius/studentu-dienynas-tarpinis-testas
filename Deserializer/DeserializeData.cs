@@ -10,8 +10,8 @@ namespace Deserializer
         public List<School> DeserializeDataFile()
         {
             var path = @"..\..\..\..\DataFiles\SchoolsData.json";
-            var jsonString = File.ReadAllText(path);
-            List<School> schoolData = JsonSerializer.Deserialize<List<School>>(jsonString);
+            var text = File.ReadAllText(path);
+            List<School> schoolData = JsonSerializer.Deserialize<List<School>>(text);
 
             return schoolData;
         }

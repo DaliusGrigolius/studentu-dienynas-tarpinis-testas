@@ -10,14 +10,12 @@ namespace Serializer
     {
         public void GenerateDataFile()
         {
-
             Random random = new Random();
 
             List<Student> students = new List<Student>();
 
             for (int i = 0; i < 5; i++)
             {
-
                 List<Grade> firstSemesterGrades0 = new List<Grade>();
                 for (int j = 0; j < 5; j++) firstSemesterGrades0.Add(new Grade(random.Next(4, 10)));
                 List<Grade> secondSemesterGrades0 = new List<Grade>();
@@ -30,16 +28,13 @@ namespace Serializer
                 for (int k = 0; k < 5; k++) secondSemesterGrades1.Add(new Grade(random.Next(4, 10)));
                 List<Grade> thirdSemesterGrades1 = new List<Grade>();
                 for (int l = 0; l < 5; l++) thirdSemesterGrades1.Add(new Grade(random.Next(4, 10)));
-
                 students.Add(new Student($"Vardas{i + 1}", $"Vardaitis{i + 1}", $"200{random.Next(0, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Vyras", firstSemesterGrades0, secondSemesterGrades0, thirdSemesterGrades0));
                 students.Add(new Student($"Varde{i + 1}", $"Vardaite{i + 1}", $"199{random.Next(1, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Moteris", firstSemesterGrades1, secondSemesterGrades1, thirdSemesterGrades1));
-
             }
             List<Student> students1 = new List<Student>();
 
             for (int i = 0; i < 5; i++)
             {
-
                 List<Grade> firstSemesterGrades0 = new List<Grade>();
                 for (int j = 0; j < 5; j++) firstSemesterGrades0.Add(new Grade(random.Next(4, 10)));
                 List<Grade> secondSemesterGrades0 = new List<Grade>();
@@ -52,16 +47,13 @@ namespace Serializer
                 for (int k = 0; k < 5; k++) secondSemesterGrades1.Add(new Grade(random.Next(4, 10)));
                 List<Grade> thirdSemesterGrades1 = new List<Grade>();
                 for (int l = 0; l < 5; l++) thirdSemesterGrades1.Add(new Grade(random.Next(4, 10)));
-
                 students1.Add(new Student($"Vardas{i + 1}", $"Vardaitis{i + 1}", $"200{random.Next(0, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Vyras", firstSemesterGrades0, secondSemesterGrades0, thirdSemesterGrades0));
                 students1.Add(new Student($"Varde{i + 1}", $"Vardaite{i + 1}", $"199{random.Next(1, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Moteris", firstSemesterGrades1, secondSemesterGrades1, thirdSemesterGrades1));
-
             }
             List<Student> students2 = new List<Student>();
 
             for (int i = 0; i < 5; i++)
             {
-
                 List<Grade> firstSemesterGrades0 = new List<Grade>();
                 for (int j = 0; j < 5; j++) firstSemesterGrades0.Add(new Grade(random.Next(4, 10)));
                 List<Grade> secondSemesterGrades0 = new List<Grade>();
@@ -74,16 +66,13 @@ namespace Serializer
                 for (int k = 0; k < 5; k++) secondSemesterGrades1.Add(new Grade(random.Next(4, 10)));
                 List<Grade> thirdSemesterGrades1 = new List<Grade>();
                 for (int l = 0; l < 5; l++) thirdSemesterGrades1.Add(new Grade(random.Next(4, 10)));
-
                 students2.Add(new Student($"Vardas{i + 1}", $"Vardaitis{i + 1}", $"200{random.Next(0, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Vyras", firstSemesterGrades0, secondSemesterGrades0, thirdSemesterGrades0));
                 students2.Add(new Student($"Varde{i + 1}", $"Vardaite{i + 1}", $"199{random.Next(1, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Moteris", firstSemesterGrades1, secondSemesterGrades1, thirdSemesterGrades1));
-
             }
             List<Student> students3 = new List<Student>();
 
             for (int i = 0; i < 5; i++)
             {
-
                 List<Grade> firstSemesterGrades0 = new List<Grade>();
                 for (int j = 0; j < 5; j++) firstSemesterGrades0.Add(new Grade(random.Next(4, 10)));
                 List<Grade> secondSemesterGrades0 = new List<Grade>();
@@ -96,16 +85,13 @@ namespace Serializer
                 for (int k = 0; k < 5; k++) secondSemesterGrades1.Add(new Grade(random.Next(4, 10)));
                 List<Grade> thirdSemesterGrades1 = new List<Grade>();
                 for (int l = 0; l < 5; l++) thirdSemesterGrades1.Add(new Grade(random.Next(4, 10)));
-
                 students3.Add(new Student($"Vardas{i + 1}", $"Vardaitis{i + 1}", $"200{random.Next(0, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Vyras", firstSemesterGrades0, secondSemesterGrades0, thirdSemesterGrades0));
                 students3.Add(new Student($"Varde{i + 1}", $"Vardaite{i + 1}", $"199{random.Next(1, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Moteris", firstSemesterGrades1, secondSemesterGrades1, thirdSemesterGrades1));
-
             }
             List<Student> students4 = new List<Student>();
 
             for (int i = 0; i < 5; i++)
             {
-
                 List<Grade> firstSemesterGrades0 = new List<Grade>();
                 for (int j = 0; j < 5; j++) firstSemesterGrades0.Add(new Grade(random.Next(4, 10)));
                 List<Grade> secondSemesterGrades0 = new List<Grade>();
@@ -118,7 +104,6 @@ namespace Serializer
                 for (int k = 0; k < 5; k++) secondSemesterGrades1.Add(new Grade(random.Next(4, 10)));
                 List<Grade> thirdSemesterGrades1 = new List<Grade>();
                 for (int l = 0; l < 5; l++) thirdSemesterGrades1.Add(new Grade(random.Next(4, 10)));
-
                 students4.Add(new Student($"Vardas{i + 1}", $"Vardaitis{i + 1}", $"200{random.Next(0, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Vyras", firstSemesterGrades0, secondSemesterGrades0, thirdSemesterGrades0));
                 students4.Add(new Student($"Varde{i + 1}", $"Vardaite{i + 1}", $"199{random.Next(1, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Moteris", firstSemesterGrades1, secondSemesterGrades1, thirdSemesterGrades1));
 
@@ -127,7 +112,6 @@ namespace Serializer
 
             for (int i = 0; i < 5; i++)
             {
-
                 List<Grade> firstSemesterGrades0 = new List<Grade>();
                 for (int j = 0; j < 5; j++) firstSemesterGrades0.Add(new Grade(random.Next(4, 10)));
                 List<Grade> secondSemesterGrades0 = new List<Grade>();
@@ -140,12 +124,9 @@ namespace Serializer
                 for (int k = 0; k < 5; k++) secondSemesterGrades1.Add(new Grade(random.Next(4, 10)));
                 List<Grade> thirdSemesterGrades1 = new List<Grade>();
                 for (int l = 0; l < 5; l++) thirdSemesterGrades1.Add(new Grade(random.Next(4, 10)));
-
                 students5.Add(new Student($"Vardas{i + 1}", $"Vardaitis{i + 1}", $"200{random.Next(0, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Vyras", firstSemesterGrades0, secondSemesterGrades0, thirdSemesterGrades0));
                 students5.Add(new Student($"Varde{i + 1}", $"Vardaite{i + 1}", $"199{random.Next(1, 9)}-{random.Next(1, 12)}-{random.Next(1, 31)}", "Moteris", firstSemesterGrades1, secondSemesterGrades1, thirdSemesterGrades1));
-
             }
-
             List<Class> classesList = new List<Class>();
             classesList.Add(new Class("Klase1", students));
             classesList.Add(new Class("Klase2", students1));
@@ -167,6 +148,7 @@ namespace Serializer
             string jsonString = JsonSerializer.Serialize(schoolsList, options);
 
             File.WriteAllText(@"..\..\..\..\DataFiles\SchoolsData.json", jsonString);
+            File.WriteAllText(@"..\..\..\..\DataFiles\test1.txt", jsonString);
         }
     }
 }
