@@ -102,7 +102,7 @@ namespace Serializer
         public string GenerateRandomBirthDate()
         {
             Random rnd = new Random();
-            return $"199{rnd.Next(1, 9)}-{rnd.Next(1, 12)}-{rnd.Next(1, 31)}";
+            return $"199{rnd.Next(1, 10)}-{rnd.Next(1, 13)}-{rnd.Next(1, 32)}";
         }
 
         public string GenerateRandomGender()
