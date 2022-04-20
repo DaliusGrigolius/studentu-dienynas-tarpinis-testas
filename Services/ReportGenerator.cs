@@ -16,9 +16,9 @@ namespace Services
             
             File.Delete(@"..\..\..\..\DataFiles\generatedReport.html");
 
-            string schoolTemplatePath = @"..\..\..\..\DataFiles\schoolTemplate.html";
-            string classNameTemplatePath = @"..\..\..\..\DataFiles\classNameTemplate.html";
-            string classesTemplatePath = @"..\..\..\..\DataFiles\classesTemplate.html";
+            string schoolTemplatePath = @"..\..\..\..\DataFiles\templates\schoolTemplate.html";
+            string classNameTemplatePath = @"..\..\..\..\DataFiles\templates\classNameTemplate.html";
+            string classesTemplatePath = @"..\..\..\..\DataFiles\templates\classesTemplate.html";
 
             string reportPath = @"..\..\..\..\DataFiles\generatedReport.html";
 
@@ -32,13 +32,14 @@ namespace Services
                 schoolText = schoolText.Replace("{SchoolAddress}", schoolsList[i].Address);
                 schoolText = schoolText.Replace("{SchoolPhoneNumber}", schoolsList[i].PhoneNumber);
                 schoolText = schoolText.Replace("{SchoolEmail}", schoolsList[i].Email);
+                schoolText = schoolText.Replace("{ClassesTotal}", $"{schoolsList[i].Classes.Count}");
 
                 File.AppendAllText(reportPath, schoolText);
                 schoolText = File.ReadAllText(schoolTemplatePath);
 
                 for (int j = 0; j < schoolsList[i].Classes.Count; j++)
                 {
-                    classNametext = classNametext.Replace("{Class}", schoolsList[i].Classes[j].Name);
+                    classNametext = classNametext.Replace("{Class}", $"{schoolsList[i].Classes[j].Name}{j+1}");
 
                     File.AppendAllText(reportPath, classNametext);
                     classNametext = File.ReadAllText(classNameTemplatePath);
@@ -47,6 +48,7 @@ namespace Services
                     {
                         classesText = classesText.Replace("{StudentName}", schoolsList[i].Classes[j].Students[k].FirstName);
                         classesText = classesText.Replace("{StudentSurname}", schoolsList[i].Classes[j].Students[k].LastName);
+                        classesText = classesText.Replace("{Gender}", schoolsList[i].Classes[j].Students[k].Gender);
                         int sem1 = calculator.CalculateSemesterAverage(i, j, k, 1);
                         int sem2 = calculator.CalculateSemesterAverage(i, j, k, 2);
                         int sem3 = calculator.CalculateSemesterAverage(i, j, k, 3);

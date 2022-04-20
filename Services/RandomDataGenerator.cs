@@ -1,6 +1,8 @@
-﻿using System;
+﻿using main.Business;
+using System;
+using System.Collections.Generic;
 
-namespace Serializer
+namespace Services
 {
     public class RandomDataGenerator
     {
@@ -91,7 +93,7 @@ namespace Serializer
             string number = "";
             number += nums[rnd.Next(nums.Length)];
             int b = 0;
-            while (b < 7)
+            while (b < 6)
             {
                 number += nums[rnd.Next(nums.Length)];
                 b++;
@@ -113,10 +115,52 @@ namespace Serializer
             return $"{genders[rnd.Next(0, 2)]}";
         }
 
-        public int GenerateRandomGrade()
+        public List<Student> GenerateStudentsList()
         {
-            Random rnd = new Random();
-            return rnd.Next(2, 11);
+            List<Student> students = new List<Student>();
+            Random random = new Random();
+            int rndNum = random.Next(5, 31);
+            for (int i = 0; i < rndNum; i++)
+            {
+                students.Add(new Student(GenerateRandomFirstName(5), GenerateRandomLastName(6), GenerateRandomBirthDate(), GenerateRandomGender(), GenerateGradesList(), GenerateGradesList(), GenerateGradesList()));
+            }
+            return students;
         }
+
+        public List<Grade> GenerateGradesList()
+        {
+            List<Grade> grades = new List<Grade>();
+            for (int i = 0; i < 5; i++)
+            {
+                Random rnd = new Random();
+                grades.Add(new Grade(rnd.Next(4, 11)));
+            }
+            return grades;
+        }
+
+        public List<Class> GenerateClasses()
+        {
+            List<Class> classes = new List<Class>();
+            Random random = new Random();
+            int rndNum = random.Next(2, 16);
+            for (int i = 0; i < rndNum; i++)
+            {
+                classes.Add(new Class(GenerateRandomFirstName(6), GenerateStudentsList()));
+            }
+            return classes;
+        }
+
+        public List<School> GenerateSchools()
+        {
+            List<School> schools = new List<School>();
+            Random random = new Random();
+            int rndNum = random.Next(2, 10);
+            for (int i = 0; i < rndNum; i++)
+            {
+                schools.Add(new School(GenerateRandomFirstName(8), GenerateRandomAddress(7), GenerateRandomPhoneNumber(), GenerateRandomEmail(5), GenerateClasses()));
+            }
+            return schools;
+        }
+
     }
 }

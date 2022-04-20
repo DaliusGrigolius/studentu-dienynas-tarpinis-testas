@@ -8,10 +8,11 @@ namespace main
     {
         static void Main(string[] args)
         {
-            //SerializeData serializeData = new SerializeData();
-            //serializeData.GenerateDataFile();
-            //ReportGenerator reportGenerator = new ReportGenerator();
-            //reportGenerator.GenerateReport();
+            SerializeData serializeData = new SerializeData();
+            ReportGenerator reportGenerator = new ReportGenerator();
+
+            serializeData.GenerateDataFile();
+            reportGenerator.GenerateReport();
 
             Console.ReadLine();
         }
