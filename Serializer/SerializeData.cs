@@ -22,7 +22,17 @@ namespace Serializer
             string jsonString = JsonSerializer.Serialize(rndDataGen.GenerateSchools(), options);
 
             File.WriteAllText(@"..\..\..\..\DataFiles\SchoolsData.json", jsonString);
-            File.WriteAllText(@$"..\..\..\..\DataFiles\SavedDataTxt\SchoolsData{rndNum}{anyLetter}{rndNum1}.txt", jsonString);
+
+            if (Directory.Exists(@$"..\..\..\..\DataFiles\SavedDataTxt\"))
+            {
+                File.WriteAllText(@$"..\..\..\..\DataFiles\SavedDataTxt\SchoolsData{rndNum}{anyLetter}{rndNum1}.txt", jsonString);
+            }
+            else
+            {
+                Directory.CreateDirectory(@$"..\..\..\..\DataFiles\SavedDataTxt\");
+                File.WriteAllText(@$"..\..\..\..\DataFiles\SavedDataTxt\SchoolsData{rndNum}{anyLetter}{rndNum1}.txt", jsonString);
+            }
+ 
         }
     }
 }
