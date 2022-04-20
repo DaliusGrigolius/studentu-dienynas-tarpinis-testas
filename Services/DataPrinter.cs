@@ -51,9 +51,9 @@ namespace Services
                         Console.WriteLine($"     Student Name: {schoolsList[i].Classes[j].Students[k].FirstName}");
                         Console.WriteLine($"     StudentSurname: {schoolsList[i].Classes[j].Students[k].LastName}");
                         Console.WriteLine($"     Gender: {schoolsList[i].Classes[j].Students[k].Gender}");
-                        int sem1 = calculator.CalculateSemesterAverage(i, j, k, 1);
-                        int sem2 = calculator.CalculateSemesterAverage(i, j, k, 2);
-                        int sem3 = calculator.CalculateSemesterAverage(i, j, k, 3);
+                        int sem1 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 1);
+                        int sem2 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 2);
+                        int sem3 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 3);
                         Console.WriteLine($"        1st semester average: {sem1}");
                         Console.WriteLine($"        2nd semester average: {sem2}");
                         Console.WriteLine($"        3rd semester average: {sem3}");

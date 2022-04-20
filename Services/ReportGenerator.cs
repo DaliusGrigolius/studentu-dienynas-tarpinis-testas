@@ -55,9 +55,9 @@ namespace Services
                         classesText = classesText.Replace("{StudentName}", schoolsList[i].Classes[j].Students[k].FirstName);
                         classesText = classesText.Replace("{StudentSurname}", schoolsList[i].Classes[j].Students[k].LastName);
                         classesText = classesText.Replace("{Gender}", schoolsList[i].Classes[j].Students[k].Gender);
-                        int sem1 = calculator.CalculateSemesterAverage(i, j, k, 1);
-                        int sem2 = calculator.CalculateSemesterAverage(i, j, k, 2);
-                        int sem3 = calculator.CalculateSemesterAverage(i, j, k, 3);
+                        int sem1 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 1);
+                        int sem2 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 2);
+                        int sem3 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 3);
                         classesText = classesText.Replace("{1semAv}", $"{sem1}");
                         classesText = classesText.Replace("{2semAv}", $"{sem2}");
                         classesText = classesText.Replace("{3semAv}", $"{sem3}");

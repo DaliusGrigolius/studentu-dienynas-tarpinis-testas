@@ -7,16 +7,16 @@ namespace Services
 {
     public class Calculator
     {
-        public SchoolRepo schoolRepo { get; }
-        List<School> schoolsList { get; }
+        //public SchoolRepo schoolRepo { get; }
+        //List<School> schoolsList { get; }
 
         public Calculator()
         {
-            schoolRepo = new SchoolRepo();
-            schoolsList = schoolRepo.RetrieveSchoolsList();
+            //schoolRepo = new SchoolRepo();
+            //schoolsList = schoolRepo.RetrieveSchoolsList();
         }
 
-        public int CalculateSemesterAverage(int schoolIndex, int classIndex, int studentIndex, int semesterNumber)
+        public int CalculateSemesterAverage(List<School> schoolsList, int schoolIndex, int classIndex, int studentIndex, int semesterNumber)
         {
             int finalResult = 0;
 
