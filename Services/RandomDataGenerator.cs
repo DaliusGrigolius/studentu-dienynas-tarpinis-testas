@@ -53,18 +53,18 @@ namespace Services
             Random address = new Random();
             string[] consonants = { "b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "r", "s", "t", "v" };
             string[] vowels = { "a", "e", "i", "o", "u", "y", "os", "as" };
-            string Adress = "";
-            Adress += consonants[address.Next(consonants.Length)].ToUpper();
-            Adress += vowels[address.Next(vowels.Length)];
+            string Address = "";
+            Address += consonants[address.Next(consonants.Length)].ToUpper();
+            Address += vowels[address.Next(vowels.Length)];
             int b = 2;
             while (b < length)
             {
-                Adress += consonants[address.Next(consonants.Length)];
+                Address += consonants[address.Next(consonants.Length)];
                 b++;
-                Adress += vowels[address.Next(vowels.Length)];
+                Address += vowels[address.Next(vowels.Length)];
                 b++;
             }
-            return $"{Adress} str. House No.{house} Apartment No.{apartment}";
+            return $"{Address} str. House No.{house} Apartment No.{apartment}";
         }
 
         public string GenerateRandomEmail(int length)
@@ -119,7 +119,7 @@ namespace Services
         {
             List<Student> students = new List<Student>();
             Random random = new Random();
-            int rndNum = random.Next(5, 31);
+            int rndNum = random.Next(5, 21);
             for (int i = 0; i < rndNum; i++)
             {
                 students.Add(new Student(GenerateRandomFirstName(5), GenerateRandomLastName(6), GenerateRandomBirthDate(), GenerateRandomGender(), GenerateGradesList(), GenerateGradesList(), GenerateGradesList()));
@@ -142,7 +142,7 @@ namespace Services
         {
             List<Class> classes = new List<Class>();
             Random random = new Random();
-            int rndNum = random.Next(2, 16);
+            int rndNum = random.Next(2, 10);
             for (int i = 0; i < rndNum; i++)
             {
                 classes.Add(new Class(GenerateRandomFirstName(6), GenerateStudentsList()));
@@ -154,7 +154,7 @@ namespace Services
         {
             List<School> schools = new List<School>();
             Random random = new Random();
-            int rndNum = random.Next(2, 10);
+            int rndNum = random.Next(2, 6);
             for (int i = 0; i < rndNum; i++)
             {
                 schools.Add(new School(GenerateRandomFirstName(8), GenerateRandomAddress(7), GenerateRandomPhoneNumber(), GenerateRandomEmail(5), GenerateClasses()));

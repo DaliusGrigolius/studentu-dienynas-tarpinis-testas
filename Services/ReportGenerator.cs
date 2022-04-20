@@ -33,13 +33,19 @@ namespace Services
                 schoolText = schoolText.Replace("{SchoolPhoneNumber}", schoolsList[i].PhoneNumber);
                 schoolText = schoolText.Replace("{SchoolEmail}", schoolsList[i].Email);
                 schoolText = schoolText.Replace("{ClassesTotal}", $"{schoolsList[i].Classes.Count}");
-
+                int totalStudents = 0;
+                for (int j = 0; j < schoolsList[i].Classes.Count; j++)
+                {
+                    totalStudents += schoolsList[i].Classes[j].Students.Count;
+                }
+                schoolText = schoolText.Replace("{studentsTotal}", $"{totalStudents}");
                 File.AppendAllText(reportPath, schoolText);
                 schoolText = File.ReadAllText(schoolTemplatePath);
 
                 for (int j = 0; j < schoolsList[i].Classes.Count; j++)
                 {
                     classNametext = classNametext.Replace("{Class}", $"{schoolsList[i].Classes[j].Name}{j+1}");
+                    classNametext = classNametext.Replace("{total}", $"{schoolsList[i].Classes[j].Students.Count}");
 
                     File.AppendAllText(reportPath, classNametext);
                     classNametext = File.ReadAllText(classNameTemplatePath);

@@ -10,9 +10,11 @@ namespace main
         {
             SerializeData serializeData = new SerializeData();
             ReportGenerator reportGenerator = new ReportGenerator();
+            DataPrinter dataPrinter = new DataPrinter();
 
             serializeData.GenerateDataFile();
             reportGenerator.GenerateReport();
+            dataPrinter.PrintDataFile();
 
             Console.ReadLine();
         }
