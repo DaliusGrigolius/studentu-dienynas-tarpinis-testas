@@ -33,7 +33,7 @@ namespace unitTests
         public void CalculateSemesterAverage_HasData_ReturnsCorrectlyIf2ndParameterWrong()
         {
             var actual = calculator.CalculateSemesterAverage(schoolsList, - 1, 0, 0, 1);
-            var expected = 0;
+            var expected = "";
 
             Assert.AreEqual(expected, actual);
         }
@@ -42,7 +42,7 @@ namespace unitTests
         public void CalculateSemesterAverage_HasData_ReturnsCorrectlyIf3rdParameterWrong()
         {
             var actual = calculator.CalculateSemesterAverage(schoolsList, 0, -1, 0, 1);
-            var expected = 0;
+            var expected = "";
 
             Assert.AreEqual(expected, actual);
         }
@@ -51,7 +51,7 @@ namespace unitTests
         public void CalculateSemesterAverage_HasData_ReturnsCorrectlyIf4thParameterWrong()
         {
             var actual = calculator.CalculateSemesterAverage(schoolsList, 0, 0, -1, 1);
-            var expected = 0;
+            var expected = "";
 
             Assert.AreEqual(expected, actual);
         }
@@ -60,7 +60,7 @@ namespace unitTests
         public void CalculateSemesterAverage_HasData_ReturnsCorrectlyIf5thParameterWrong()
         {
             var actual = calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, -1);
-            var expected = 0;
+            var expected = "";
 
             Assert.AreEqual(expected, actual);
         }
@@ -69,7 +69,16 @@ namespace unitTests
         public void CalculateSemesterAverage_HasData_ReturnsCorrectlyIfAllParametersValid()
         {
             var actual = calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 1);
-            var expected = 6;
+            var expected = "6.0";
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void CalculateYearAverage_ReturnsCorrectly()
+        {
+            var actual = calculator.CalculateYearAverage(calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 1), calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 2), calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 3));
+            var expected = "8.0";
 
             Assert.AreEqual(expected, actual);
         }

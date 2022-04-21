@@ -9,11 +9,10 @@ namespace Services
     {
         public void GenerateReport()
         {
-            SchoolRepo schoolRepo = new SchoolRepo();
             Calculator calculator = new Calculator();
-
+            SchoolRepo schoolRepo = new SchoolRepo();
             List<School> schoolsList = schoolRepo.RetrieveSchoolsList();
-            
+
             File.Delete(@"..\..\..\..\DataFiles\generatedReport.html");
 
             string schoolTemplatePath = @"..\..\..\..\DataFiles\templates\schoolTemplate.html";
@@ -55,9 +54,9 @@ namespace Services
                         classesText = classesText.Replace("{StudentName}", schoolsList[i].Classes[j].Students[k].FirstName);
                         classesText = classesText.Replace("{StudentSurname}", schoolsList[i].Classes[j].Students[k].LastName);
                         classesText = classesText.Replace("{Gender}", schoolsList[i].Classes[j].Students[k].Gender);
-                        int sem1 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 1);
-                        int sem2 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 2);
-                        int sem3 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 3);
+                        string sem1 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 1);
+                        string sem2 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 2);
+                        string sem3 = calculator.CalculateSemesterAverage(schoolsList, i, j, k, 3);
                         classesText = classesText.Replace("{1semAv}", $"{sem1}");
                         classesText = classesText.Replace("{2semAv}", $"{sem2}");
                         classesText = classesText.Replace("{3semAv}", $"{sem3}");

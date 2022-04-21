@@ -1,67 +1,68 @@
 ﻿using main.Business;
-using main.DataAccess;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Services
 {
     public class Calculator
     {
-        //public SchoolRepo schoolRepo { get; }
-        //List<School> schoolsList { get; }
-
-        public Calculator()
+        public string CalculateSemesterAverage(List<School> schoolsList, int schoolIndex, int classIndex, int studentIndex, int semesterNumber)
         {
-            //schoolRepo = new SchoolRepo();
-            //schoolsList = schoolRepo.RetrieveSchoolsList();
-        }
-
-        public int CalculateSemesterAverage(List<School> schoolsList, int schoolIndex, int classIndex, int studentIndex, int semesterNumber)
-        {
-            int finalResult = 0;
+            string finalResult = "";
 
             Validator validator = new Validator();
 
             bool isSchoolIndexValid = validator.IsSchoolIndexValid(schoolIndex);
-            if (!isSchoolIndexValid) return 0;
+            if (!isSchoolIndexValid) return "";
             bool isClassIndexValid = validator.IsClassIndexValid(schoolIndex, classIndex);
-            if (!isClassIndexValid) return 0;
+            if (!isClassIndexValid) return "";
             bool isStudentIndexValid = validator.IsStudentIndexValid(schoolIndex, classIndex, studentIndex);
-            if (!isStudentIndexValid) return 0;
+            if (!isStudentIndexValid) return "";
             bool isSemesterNumberValid = validator.IsSemesterNumberValid(semesterNumber);
-            if (!isSemesterNumberValid) return 0;
+            if (!isSemesterNumberValid) return "";
 
             if (semesterNumber == 1)
             {
-                List<Grade> gradesList = schoolsList[schoolIndex].Classes[classIndex].Students[studentIndex].FirstSemesterGrades;
-                int sum = 0;
-                for (int i = 0; i < gradesList.Count; i++) sum += gradesList[i].GradeNum;
-                double result = sum / gradesList.Count;
-                finalResult += Convert.ToInt32(Math.Round(result));
+                int arrSize = schoolsList[schoolIndex].Classes[classIndex].Students[studentIndex].FirstSemesterGrades.Count;
+                int[] arr = new int[arrSize];
+                for (int i = 0; i < arrSize; i++)
+                {
+                    arr[i] = schoolsList[schoolIndex].Classes[classIndex].Students[studentIndex].FirstSemesterGrades[i].GradeNum;
+                }
+                double avg = Queryable.Average(arr.AsQueryable());
+                finalResult += String.Format("{0:0.0}", avg);
             }
             else if (semesterNumber == 2)
             {
-                List<Grade> gradesList = schoolsList[schoolIndex].Classes[classIndex].Students[studentIndex].SecondSemesterGrades;
-                int sum = 0;
-                for (int i = 0; i < gradesList.Count; i++) sum += gradesList[i].GradeNum;
-                double result = sum / gradesList.Count;
-                finalResult += Convert.ToInt32(Math.Round(result));
+                int arrSize = schoolsList[schoolIndex].Classes[classIndex].Students[studentIndex].SecondSemesterGrades.Count;
+                int[] arr = new int[arrSize];
+                for (int i = 0; i < arrSize; i++)
+                {
+                    arr[i] = schoolsList[schoolIndex].Classes[classIndex].Students[studentIndex].SecondSemesterGrades[i].GradeNum;
+                }
+                double avg = Queryable.Average(arr.AsQueryable());
+                finalResult += String.Format("{0:0.0}", avg);
             }
             else
             {
-                List<Grade> gradesList = schoolsList[schoolIndex].Classes[classIndex].Students[studentIndex].ThirdSemesterGrades;
-                int sum = 0;
-                for (int i = 0; i < gradesList.Count; i++) sum += gradesList[i].GradeNum;
-                double result = sum / gradesList.Count;
-                finalResult += Convert.ToInt32(Math.Round(result));
+                int arrSize = schoolsList[schoolIndex].Classes[classIndex].Students[studentIndex].ThirdSemesterGrades.Count;
+                int[] arr = new int[arrSize];
+                for (int i = 0; i < arrSize; i++)
+                {
+                    arr[i] = schoolsList[schoolIndex].Classes[classIndex].Students[studentIndex].ThirdSemesterGrades[i].GradeNum;
+                }
+                double avg = Queryable.Average(arr.AsQueryable());
+                finalResult += String.Format("{0:0.0}", avg);
             }
             return finalResult;
         }
 
-        public int CalculateYearAverage(int firstSemesterNumber, int secondSemesterNumber, int thirdSemesterNumber)
+        public string CalculateYearAverage(string firstSemesterNumber, string secondSemesterNumber, string thirdSemesterNumber)
         {
-            double result = (firstSemesterNumber + secondSemesterNumber + thirdSemesterNumber) / 3;
-            return Convert.ToInt32(Math.Round(result));
+            double[] arr = { Convert.ToDouble(firstSemesterNumber), Convert.ToDouble(secondSemesterNumber), Convert.ToDouble(thirdSemesterNumber) };
+            double avg = Queryable.Average(arr.AsQueryable());
+            return String.Format("{0:0.0}", avg);            
         }
     }
 }

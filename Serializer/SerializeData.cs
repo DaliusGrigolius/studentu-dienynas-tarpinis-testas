@@ -32,7 +32,6 @@ namespace Serializer
                 Directory.CreateDirectory(@$"..\..\..\..\DataFiles\SavedDataTxt\");
                 File.WriteAllText(@$"..\..\..\..\DataFiles\SavedDataTxt\SchoolsData{rndNum}{anyLetter}{rndNum1}.txt", jsonString);
             }
- 
         }
     }
 }

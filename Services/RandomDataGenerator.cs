@@ -161,6 +161,5 @@ namespace Services
             }
             return schools;
         }
-
     }
 }

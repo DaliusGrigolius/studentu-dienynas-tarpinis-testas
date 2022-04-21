@@ -13,8 +13,8 @@ namespace main
             DataPrinter dataPrinter = new DataPrinter();
 
             serializeData.GenerateDataFile();
-            reportGenerator.GenerateReport();
             dataPrinter.PrintDataFile();
+            reportGenerator.GenerateReport();
 
             Console.ReadLine();
         }

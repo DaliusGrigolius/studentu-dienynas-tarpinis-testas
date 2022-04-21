@@ -18,10 +18,5 @@ namespace main.DataAccess
         {
             return schoolsList;
         }
-
-        public School RetrieveSchool(int schoolIndex)
-        {
-            return schoolsList[schoolIndex];
-        }
     }
 }
