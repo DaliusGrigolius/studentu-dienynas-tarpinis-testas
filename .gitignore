@@ -3,7 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-DataFiles/
+SavedDataTxt/
+generatedReport.html
+SchoolsData.json
 
 # User-specific files
 *.rsuser
