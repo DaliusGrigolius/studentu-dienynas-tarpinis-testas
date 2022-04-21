@@ -1,0 +1,8291 @@
+[
+  {
+    "Name": "Kynicici",
+    "Address": "Cupevasty str. House No.141 Apartment No.66",
+    "PhoneNumber": "\u002B37068781749",
+    "Email": "a7u7l4@gmail.com",
+    "Classes": [
+      {
+        "Name": "Kyvaga",
+        "Students": [
+          {
+            "FirstName": "Cisemi",
+            "LastName": "Cupetu",
+            "BirthDate": "1997-10-26",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Gemydi",
+            "LastName": "Katifa",
+            "BirthDate": "1993-6-10",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Cycyky",
+            "LastName": "Kubocu",
+            "BirthDate": "1997-3-24",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Picipu",
+            "LastName": "Jupuko",
+            "BirthDate": "1999-6-14",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Bisije",
+            "LastName": "Nopely",
+            "BirthDate": "1994-8-2",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Fijino",
+            "LastName": "Dypevy",
+            "BirthDate": "1995-2-1",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Rygise",
+            "LastName": "Laculo",
+            "BirthDate": "1998-2-21",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Sefupy",
+            "LastName": "Ratopo",
+            "BirthDate": "1996-10-27",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Putigi",
+            "LastName": "Vavegu",
+            "BirthDate": "1998-5-15",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Motoge",
+            "LastName": "Bumety",
+            "BirthDate": "1992-6-23",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Rateki",
+            "LastName": "Vimuko",
+            "BirthDate": "1991-1-23",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Pagopu",
+            "LastName": "Gulony",
+            "BirthDate": "1996-8-28",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Kumugu",
+            "LastName": "Fumale",
+            "BirthDate": "1996-8-13",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Madyji",
+            "LastName": "Sokola",
+            "BirthDate": "1998-7-31",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Kigejo",
+            "LastName": "Vomulo",
+            "BirthDate": "1996-10-16",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Hobelu",
+            "LastName": "Cinedo",
+            "BirthDate": "1993-5-25",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Mityfu",
+            "LastName": "Cypene",
+            "BirthDate": "1994-10-31",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hymiru",
+        "Students": [
+          {
+            "FirstName": "Topego",
+            "LastName": "Dihuma",
+            "BirthDate": "1992-3-19",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Gulosi",
+            "LastName": "Pyrona",
+            "BirthDate": "1996-1-4",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Deruke",
+            "LastName": "Rotery",
+            "BirthDate": "1994-10-5",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Mesubi",
+            "LastName": "Cutybo",
+            "BirthDate": "1992-10-5",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Bebada",
+            "LastName": "Kydomi",
+            "BirthDate": "1997-3-8",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ledehi",
+        "Students": [
+          {
+            "FirstName": "Nugefi",
+            "LastName": "Cokeko",
+            "BirthDate": "1995-6-11",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Dodyte",
+            "LastName": "Velulo",
+            "BirthDate": "1994-9-4",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Jarutu",
+            "LastName": "Setyra",
+            "BirthDate": "1995-11-5",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Hahato",
+            "LastName": "Fedene",
+            "BirthDate": "1998-1-18",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Getemu",
+            "LastName": "Veliro",
+            "BirthDate": "1996-2-24",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Gybuki",
+            "LastName": "Tototo",
+            "BirthDate": "1996-12-2",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Kovyse",
+        "Students": [
+          {
+            "FirstName": "Mavidi",
+            "LastName": "Nobigi",
+            "BirthDate": "1991-10-22",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Sigeru",
+            "LastName": "Furafo",
+            "BirthDate": "1998-7-3",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Minoco",
+            "LastName": "Jujelu",
+            "BirthDate": "1994-6-28",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Gonocy",
+            "LastName": "Nobeky",
+            "BirthDate": "1994-6-20",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Cogagi",
+            "LastName": "Mokupi",
+            "BirthDate": "1993-3-8",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Higyry",
+            "LastName": "Rijovi",
+            "BirthDate": "1997-12-24",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Tyheba",
+            "LastName": "Ninisy",
+            "BirthDate": "1998-2-25",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Libity",
+            "LastName": "Rovovi",
+            "BirthDate": "1993-2-5",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mejine",
+        "Students": [
+          {
+            "FirstName": "Sejegu",
+            "LastName": "Tunyra",
+            "BirthDate": "1995-5-30",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Cypede",
+            "LastName": "Polade",
+            "BirthDate": "1991-4-1",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Moruko",
+            "LastName": "Tykegi",
+            "BirthDate": "1993-8-17",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Dasudo",
+            "LastName": "Kycure",
+            "BirthDate": "1992-5-10",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Fogebo",
+            "LastName": "Nejyta",
+            "BirthDate": "1999-2-13",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Cujijo",
+            "LastName": "Tarono",
+            "BirthDate": "1995-1-18",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Jinihy",
+            "LastName": "Mamuse",
+            "BirthDate": "1996-9-16",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Jodase",
+            "LastName": "Fubeli",
+            "BirthDate": "1997-9-21",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Gybypo",
+            "LastName": "Nulelo",
+            "BirthDate": "1996-5-15",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Nusydu",
+            "LastName": "Celapi",
+            "BirthDate": "1995-8-9",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Ceteja",
+            "LastName": "Jifugy",
+            "BirthDate": "1992-3-19",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Pocefy",
+            "LastName": "Dohado",
+            "BirthDate": "1996-4-7",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Rahysy",
+            "LastName": "Mutami",
+            "BirthDate": "1997-1-8",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Bycijo",
+            "LastName": "Kehabi",
+            "BirthDate": "1996-2-18",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Paruge",
+            "LastName": "Vugino",
+            "BirthDate": "1998-3-16",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Lofugi",
+            "LastName": "Jejyvu",
+            "BirthDate": "1992-4-19",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Buhely",
+            "LastName": "Judopi",
+            "BirthDate": "1991-6-14",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Dusugi",
+            "LastName": "Momuso",
+            "BirthDate": "1992-3-17",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Nugeso",
+            "LastName": "Gigovi",
+            "BirthDate": "1992-3-21",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Pihyfu",
+        "Students": [
+          {
+            "FirstName": "Mukiba",
+            "LastName": "Kovugy",
+            "BirthDate": "1999-11-29",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Kifisa",
+            "LastName": "Kifiba",
+            "BirthDate": "1995-2-16",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Mysilu",
+            "LastName": "Naveri",
+            "BirthDate": "1995-5-17",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Codiky",
+            "LastName": "Tufyru",
+            "BirthDate": "1997-4-17",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Decude",
+            "LastName": "Gesuby",
+            "BirthDate": "1998-8-22",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Vudaje",
+            "LastName": "Besota",
+            "BirthDate": "1992-2-14",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Nojohuha",
+    "Address": "Jubyjoky str. House No.128 Apartment No.29",
+    "PhoneNumber": "\u002B37064212724",
+    "Email": "r2v2e2@gmail.com",
+    "Classes": [
+      {
+        "Name": "Nyrigu",
+        "Students": [
+          {
+            "FirstName": "Linumi",
+            "LastName": "Fesogi",
+            "BirthDate": "1999-10-30",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Jaboma",
+            "LastName": "Pihare",
+            "BirthDate": "1999-12-22",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Hubevi",
+            "LastName": "Vikyde",
+            "BirthDate": "1997-6-27",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Mokagi",
+            "LastName": "Dybery",
+            "BirthDate": "1998-6-20",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Bapari",
+            "LastName": "Nuvysi",
+            "BirthDate": "1992-3-6",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Nirupi",
+            "LastName": "Vysapy",
+            "BirthDate": "1992-4-3",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Momohi",
+            "LastName": "Hytydi",
+            "BirthDate": "1999-1-28",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Gevicy",
+            "LastName": "Facamy",
+            "BirthDate": "1991-1-27",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Dimofu",
+            "LastName": "Keduhe",
+            "BirthDate": "1996-7-28",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Jobeli",
+            "LastName": "Petumo",
+            "BirthDate": "1994-1-29",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Diloce",
+            "LastName": "Homabu",
+            "BirthDate": "1991-5-10",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Huvipu",
+            "LastName": "Sifiby",
+            "BirthDate": "1999-10-23",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Fycyha",
+            "LastName": "Piceba",
+            "BirthDate": "1992-7-13",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Nyhobi",
+            "LastName": "Cajovy",
+            "BirthDate": "1994-11-14",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Famyjo",
+            "LastName": "Mutify",
+            "BirthDate": "1993-1-8",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Cucefy",
+            "LastName": "Vymobo",
+            "BirthDate": "1996-10-23",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Havato",
+            "LastName": "Babipe",
+            "BirthDate": "1993-9-23",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Gupoga",
+            "LastName": "Poluge",
+            "BirthDate": "1999-3-5",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Vejusa",
+            "LastName": "Nyreda",
+            "BirthDate": "1999-6-12",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Lihody",
+        "Students": [
+          {
+            "FirstName": "Tehede",
+            "LastName": "Kenyry",
+            "BirthDate": "1992-8-26",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Kesohe",
+            "LastName": "Doviha",
+            "BirthDate": "1999-6-1",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Pilyde",
+            "LastName": "Jejivi",
+            "BirthDate": "1995-3-4",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Nyfofa",
+            "LastName": "Fejuse",
+            "BirthDate": "1998-4-21",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Nylysy",
+            "LastName": "Gevuva",
+            "BirthDate": "1994-7-21",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Rocutu",
+            "LastName": "Vahako",
+            "BirthDate": "1993-11-28",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Gamehu",
+            "LastName": "Robodu",
+            "BirthDate": "1995-7-29",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Vybume",
+        "Students": [
+          {
+            "FirstName": "Lavoro",
+            "LastName": "Vokefu",
+            "BirthDate": "1999-7-3",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Pypaja",
+            "LastName": "Pecaro",
+            "BirthDate": "1991-10-12",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Pofetu",
+            "LastName": "Cahyce",
+            "BirthDate": "1996-5-15",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Rojuhy",
+            "LastName": "Nykipy",
+            "BirthDate": "1991-2-1",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Socebe",
+            "LastName": "Fujilo",
+            "BirthDate": "1991-6-24",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Hinode",
+            "LastName": "Valyci",
+            "BirthDate": "1991-6-31",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Kutipy",
+        "Students": [
+          {
+            "FirstName": "Hovemu",
+            "LastName": "Dicivi",
+            "BirthDate": "1996-6-8",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Myhabi",
+            "LastName": "Lypuli",
+            "BirthDate": "1995-5-2",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Copajo",
+            "LastName": "Vigulo",
+            "BirthDate": "1997-9-3",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Gykugi",
+            "LastName": "Himaco",
+            "BirthDate": "1991-8-26",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Hideso",
+            "LastName": "Jicoru",
+            "BirthDate": "1998-10-18",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Bacevy",
+            "LastName": "Gecire",
+            "BirthDate": "1993-12-3",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Vejijy",
+            "LastName": "Suvifo",
+            "BirthDate": "1991-9-2",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Pecuci",
+            "LastName": "Melyny",
+            "BirthDate": "1993-4-1",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Fumyvo",
+        "Students": [
+          {
+            "FirstName": "Hifyky",
+            "LastName": "Ricasu",
+            "BirthDate": "1993-4-16",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Fadusy",
+            "LastName": "Gutupo",
+            "BirthDate": "1992-12-11",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Nekimu",
+            "LastName": "Jycolu",
+            "BirthDate": "1995-10-15",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Cinuvy",
+            "LastName": "Vyjuvo",
+            "BirthDate": "1997-5-25",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Jesolu",
+            "LastName": "Fobuse",
+            "BirthDate": "1997-12-8",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Rygura",
+            "LastName": "Peryhi",
+            "BirthDate": "1997-11-8",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Nureka",
+            "LastName": "Tupise",
+            "BirthDate": "1992-6-15",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Pypacu",
+            "LastName": "Hisine",
+            "BirthDate": "1996-4-3",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Nuhypu",
+            "LastName": "Rygiji",
+            "BirthDate": "1993-2-10",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Nukyja",
+            "LastName": "Jarelu",
+            "BirthDate": "1999-6-10",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Bidaku",
+            "LastName": "Lebidy",
+            "BirthDate": "1995-6-12",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Gumivy",
+            "LastName": "Gurili",
+            "BirthDate": "1997-5-26",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Dutano",
+            "LastName": "Fivuha",
+            "BirthDate": "1994-9-5",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Keryte",
+            "LastName": "Juteda",
+            "BirthDate": "1999-1-19",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Tuneby",
+            "LastName": "Vebijo",
+            "BirthDate": "1997-2-26",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Menavo",
+            "LastName": "Jydenu",
+            "BirthDate": "1992-5-1",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Capoby",
+            "LastName": "Ginufe",
+            "BirthDate": "1992-9-26",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Gehojy",
+            "LastName": "Betyve",
+            "BirthDate": "1991-2-20",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Japike",
+            "LastName": "Popuby",
+            "BirthDate": "1998-8-30",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Finibe",
+        "Students": [
+          {
+            "FirstName": "Vydonu",
+            "LastName": "Bemapa",
+            "BirthDate": "1991-5-4",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Dodeso",
+            "LastName": "Hybedy",
+            "BirthDate": "1993-2-3",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Necysa",
+            "LastName": "Lygomu",
+            "BirthDate": "1996-8-16",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          },
+          {
+            "FirstName": "Cireso",
+            "LastName": "Dehofu",
+            "BirthDate": "1995-8-3",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Hehyla",
+            "LastName": "Jemene",
+            "BirthDate": "1992-8-28",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Lufamu",
+            "LastName": "Sydudu",
+            "BirthDate": "1999-3-23",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Cavene",
+            "LastName": "Tumyvi",
+            "BirthDate": "1992-10-13",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Mivumo",
+            "LastName": "Refeka",
+            "BirthDate": "1997-1-7",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Bopetu",
+            "LastName": "Betiva",
+            "BirthDate": "1999-9-9",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Byjihe",
+            "LastName": "Lusigy",
+            "BirthDate": "1993-2-5",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Bihari",
+            "LastName": "Dibyvu",
+            "BirthDate": "1993-7-1",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Jilito",
+            "LastName": "Pybupi",
+            "BirthDate": "1991-2-6",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Pasyve",
+        "Students": [
+          {
+            "FirstName": "Codovu",
+            "LastName": "Digaci",
+            "BirthDate": "1999-6-16",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ]
+          },
+          {
+            "FirstName": "Lacino",
+            "LastName": "Ficula",
+            "BirthDate": "1994-11-14",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Cosepa",
+            "LastName": "Jynulu",
+            "BirthDate": "1997-5-14",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ]
+          },
+          {
+            "FirstName": "Juceca",
+            "LastName": "Lasumo",
+            "BirthDate": "1993-10-3",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Magaka",
+            "LastName": "Ditebu",
+            "BirthDate": "1991-1-7",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              }
+            ]
+          },
+          {
+            "FirstName": "Rogago",
+            "LastName": "Jokogo",
+            "BirthDate": "1998-7-18",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Dymigy",
+            "LastName": "Fuloho",
+            "BirthDate": "1994-11-6",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              }
+            ]
+          },
+          {
+            "FirstName": "Pyfyju",
+            "LastName": "Vureti",
+            "BirthDate": "1994-7-21",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Misuro",
+            "LastName": "Fokodo",
+            "BirthDate": "1996-6-25",
+            "Gender": "Female",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Kyhiry",
+            "LastName": "Dyraki",
+            "BirthDate": "1997-11-27",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 10
+              }
+            ]
+          },
+          {
+            "FirstName": "Hiluko",
+            "LastName": "Runedu",
+            "BirthDate": "1991-2-8",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 9
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 6
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 7
+              }
+            ]
+          },
+          {
+            "FirstName": "Myhama",
+            "LastName": "Gosylo",
+            "BirthDate": "1999-6-3",
+            "Gender": "Male",
+            "FirstSemesterGrades": [
+              {
+                "GradeNum": 8
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 7
+              },
+              {
+                "GradeNum": 8
+              }
+            ],
+            "SecondSemesterGrades": [
+              {
+                "GradeNum": 9
+              },
+              {
+                "GradeNum": 5
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 4
+              }
+            ],
+            "ThirdSemesterGrades": [
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 10
+              },
+              {
+                "GradeNum": 6
+              },
+              {
+                "GradeNum": 4
+              },
+              {
+                "GradeNum": 9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

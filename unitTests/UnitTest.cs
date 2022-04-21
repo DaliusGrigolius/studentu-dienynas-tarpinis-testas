@@ -1,7 +1,11 @@
+using Deserializer;
 using main.Business;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Serializer;
 using Services;
 using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 
 namespace unitTests
 {
@@ -10,11 +14,17 @@ namespace unitTests
     {
         private Calculator calculator { get; }
         private List<School> schoolsList { get; }
+        private ReportGenerator reportGenerator { get; }
+        private SerializeData serializeData { get; }
+        private DeserializeData deserializeData { get; }
 
         public UnitTest()
         {
+            reportGenerator = new ReportGenerator();
             calculator = new Calculator();
             schoolsList = new List<School>();
+            serializeData = new SerializeData();
+            deserializeData = new DeserializeData();
 
             List<Grade> firstSemesterGrades = new List<Grade>();
             firstSemesterGrades.Add(new Grade(6));
@@ -88,9 +98,36 @@ namespace unitTests
         }
 
         [TestMethod]
-        public void SomeMethodSomeTest()
+        public void GenerateReport_CreatesHtmlReportFile()
         {
-            
+            reportGenerator.GenerateReport();
+
+            var actual = File.Exists(@"..\..\..\..\DataFiles\generatedReport.html");
+            var expected = true;
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void GenerateDataFile_CreatesDataTxtFile()
+        {
+            serializeData.GenerateDataFile();
+
+            var actual = Directory.EnumerateFileSystemEntries(@$"..\..\..\..\DataFiles\SavedDataTxt\").Any();
+            var expected = true;
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void DeserializeDataFile_ReturnsListThatHasMoreThanOneSchool()
+        {
+            deserializeData.DeserializeDataFile();
+
+            var actual = deserializeData.DeserializeDataFile().Count > 1;
+            var expected = true;
+
+            Assert.AreEqual(expected, actual);
         }
     }
 }
