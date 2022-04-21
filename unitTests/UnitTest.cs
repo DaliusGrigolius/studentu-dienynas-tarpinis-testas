@@ -77,7 +77,11 @@ namespace unitTests
         [TestMethod]
         public void CalculateYearAverage_ReturnsCorrectly()
         {
-            var actual = calculator.CalculateYearAverage(calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 1), calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 2), calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 3));
+            var a = calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 1);
+            var b = calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 2);
+            var c = calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 3);
+
+            var actual = calculator.CalculateYearAverage(a, b, c);
             var expected = "8.0";
 
             Assert.AreEqual(expected, actual);
