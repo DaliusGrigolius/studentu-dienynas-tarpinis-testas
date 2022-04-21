@@ -10,7 +10,7 @@ namespace unitTests
         public void CalculateYearAverage_ReturnsCorrectly()
         {
             Calculator calculator = new Calculator();
-            CalculateSemesterAverage_2ndParameterCheck smt = new CalculateSemesterAverage_2ndParameterCheck();
+            CalculateSemesterAverage smt = new CalculateSemesterAverage();
             var schoolsList = smt.schoolsList;
 
             var a = calculator.CalculateSemesterAverage(schoolsList, 0, 0, 0, 1);
