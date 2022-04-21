@@ -86,5 +86,11 @@ namespace unitTests
 
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void SomeMethodSomeTest()
+        {
+            
+        }
     }
 }
